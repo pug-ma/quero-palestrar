@@ -20,3 +20,7 @@
 2. Escolha um título que descreva bem e provoque interesse pela sua palestra
 3. Adicione 3 ou 4 palavras-chaves de temas que sua palestra abordado
 4. Crie uma descrição que explique o que sua palestra abordará de forma concisa (geralmente entre 300 e 500 caracteres)
+
+###### Créditos
+
+* Originalmente baseado nesse template do [PHPSP](https://github.com/PHPSP/quero-palestrar).
