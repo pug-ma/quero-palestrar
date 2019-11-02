@@ -10,7 +10,7 @@ assignees: ''
 Título: **Título descritivo e interessante**  
 Palavras-chaves: `keyword1`, `keyword2`, `keyword3`  
 Nível: *básico*  
-Palestrante: [**Nome Completo**](número da issue com dados do palestrante)
+Palestrante: [**Nome Completo**](https://github.com/seu-perfil-no-github)
 Descrição da palestra:
 > Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
